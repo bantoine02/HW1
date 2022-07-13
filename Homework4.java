@@ -67,7 +67,7 @@ public class Homework4 {
 
 		for (int i = 0; i < values.length; i++) {
 			for (int e = 0; e < values[i].length; e++) {
-				values[i][e] = e;
+				values[i][e] = 10;
 				System.out.printf("%5d", values[i][e]);
 			}
 			System.out.println();
