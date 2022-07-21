@@ -74,8 +74,7 @@ public class Homework5 {
 	 */
 	public static void saveAsFile(String filename) throws IOException {
 
-		PrintStream out = new PrintStream(filename);
-		System.setOut(out);
+		PrintWriter out = new PrintWriter(filename);
 		out.close();
 
 	}
