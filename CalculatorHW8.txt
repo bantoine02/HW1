@@ -1,0 +1,99 @@
+Calculator!
+
+Operation: Addition
+
+Enter the addend: 3
+Enter the augend: 5
+The sum is 8
+
+Operation: Addition
+
+Enter the addend: -25
+Enter the augend: 78
+The sum is 53
+
+Operation: Addition
+
+Enter the addend: 100
+Enter the augend: -32
+The sum is 68
+
+Operation: Addition
+
+Enter the addend: -984
+Enter the augend: -352
+The sum is -1336
+
+Operation: Subtraction
+
+Enter the subtrahend: 23
+Enter the minuend: 56
+The difference is -33
+
+Operation: Subtraction
+
+Enter the subtrahend: -98
+Enter the minuend: 85
+The difference is -183
+
+Operation: Subtraction
+
+Enter the subtrahend: 12
+Enter the minuend: -8
+The difference is 20
+
+Operation: Subtraction
+
+Enter the subtrahend: -127
+Enter the minuend: -620
+The difference is 493
+
+Operation: Multiplication
+
+Enter the multiplicand: 
+Enter the multiplier: 
+The product is 3060
+
+Operation: Multiplication
+
+Enter the multiplicand: 
+Enter the multiplier: 
+The product is -102
+
+Operation: Multiplication
+
+Enter the multiplicand: 
+Enter the multiplier: 
+The product is 16501
+
+Operation: Multiplication
+
+Enter the multiplicand: 
+Enter the multiplier: 
+The product is -15
+
+Operation: Division 
+
+Enter the dividend: 12
+Enter the divisor: 4
+The quotient is 3
+
+Operation: Division 
+
+Enter the dividend: 72
+Enter the divisor: -6
+The quotient is -12
+
+Operation: Division 
+
+Enter the dividend: -9
+Enter the divisor: 3
+The quotient is -3
+
+Operation: Division 
+
+Enter the dividend: -306
+Enter the divisor: -9
+The quotient is 34
+
+The calculator is done computing!
